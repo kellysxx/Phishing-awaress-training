@@ -53,6 +53,6 @@ This project is intended for educational and defensive cybersecurity awareness p
 
 Author
 
-Kelly
+Kelechi Happiness Uzoma
 
 Cybersecurity Portfolio Project — October 2026
