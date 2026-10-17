@@ -31,8 +31,8 @@ Topics Covered
 
 Project Files
 
-* Phishing_Awareness_Training.pptx — Editable presentation.
-* Phishing_Awareness_Training.pdf — PDF version for easy viewing.
+* Phishing_Awareness_Trainings.pptx — Editable presentation.
+* Phishing_Awareness_Trainings.pdf — PDF version for easy viewing.
 
 Tools Used
 
