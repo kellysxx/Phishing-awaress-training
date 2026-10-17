@@ -1,7 +1,7 @@
-# Phishing-Awareness-Training
+# Phishing-Awareness-Trainings
 cybersecurity awareness project about phishing emails, fake websites, and social engineering prevention
 
-Phishing Awareness Training
+Phishing Awareness Trainings
 
 Project Overview
 
